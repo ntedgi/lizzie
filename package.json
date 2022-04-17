@@ -1,0 +1,23 @@
+{
+  "name": "lizzie",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tester.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ntedgi/lizzie.git"
+  },
+  "author": "Naor Tedgi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ntedgi/lizzie/issues"
+  },
+  "homepage": "https://github.com/ntedgi/lizzie#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "func-loc": "^0.1.16"
+  }
+}
